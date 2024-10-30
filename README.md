@@ -1,2 +1,2 @@
 # Hyperparameters_Inatialization
-Improving DNN
+Improving DNN by focusing on Paramters Initialization
